@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"textmarker.savedHighlights": [
+			{
+				"pattern": {
+					"type": "string",
+					"expression": " <a className=\"sidemenu-item\" onClick={() => this.props.changeMode(AppMode.LOGIN)}><span className=\"fa fa-sign-out\">\r\n              </span>&nbsp;Log Out</a>",
+					"ignoreCase": false,
+					"wholeMatch": false
+				},
+				"color": "yellow"
+			}
+		]
+	}
+}
